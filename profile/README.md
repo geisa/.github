@@ -10,6 +10,6 @@ The GEISA Github site has multiple repositories.  Broadly, these respositories i
 
 Key repositories are:
 * [Specification](https://github.com/geisa/specification)
-* [Conformance](https://github.com/geisa/specification)
+* [Conformance](https://github.com/geisa/conformance)
 * [Schemas](https://github.com/geisa/schemas)
   
