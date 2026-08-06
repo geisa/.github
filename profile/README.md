@@ -6,7 +6,7 @@ Want to get involved?  Check out the [onboarding page](https://lf-energy.atlassi
 
 The [GEISA specification](https://github.com/geisa/specification) is developed under the [Community Specification License](https://github.com/CommunitySpecification/Community_Specification).  All other GEISA artifacts are under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0.html).
 
-Published releases and current development builds of the GEISA specification are available at [spec.geisa.energy](https://spec.geisa.energy). The site provides both HTML and downloadable
+Published releases and current development builds of the GEISA specification are available at [spec.geisa-energy.org](https://spec.geisa-energy.org). The site provides both HTML and downloadable
 PDF versions.
 
 GEISA maintains several GitHub repositories covering the specification, its machine-readable definitions, conformance testing, and community-developed projects:
