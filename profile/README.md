@@ -6,28 +6,10 @@ Want to get involved?  Check out the [onboarding page](https://lf-energy.atlassi
 
 The [GEISA specification](https://github.com/geisa/specification) is developed under the [Community Specification License](https://github.com/CommunitySpecification/Community_Specification).  All other GEISA artifacts are under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0.html).
 
-<<<<<<< HEAD
-A live version of the specification is available at https://spec.geisa-energy.org/. 
-This version shows the latest version of the specification from our GitHub repository,
-including the option to download a PDF.
+Published releases and current development builds of the GEISA specification are available at [spec.geisa-energy.org](https://spec.geisa-energy.org/). The site provides both HTML and downloadable PDF versions.
 
-The GEISA GitHub organization has multiple repositories. Broadly, these repositories
-include the specification and its machine-readable definitions, conformance tests,
-and Community repositories for Community-contributed examples, board images, apps, 
-mock-ups and technology experiments.
+GEISA maintains several GitHub repositories covering the specification and its machine-readable definitions, conformance testing, and community-developed projects:
 
-Key repositories are:
-* [Specification](https://github.com/geisa/specification), including the [Protocol Buffer and JSON Schema definitions](https://github.com/geisa/specification/tree/main/schemas)
-* [Conformance](https://github.com/geisa/conformance)
-* [Community](https://github.com/geisa/community)  
-=======
-Published releases and current development builds of the GEISA specification are available at [spec.geisa-energy.org](https://spec.geisa-energy.org). The site provides both HTML and downloadable
-PDF versions.
-
-GEISA maintains several GitHub repositories covering the specification, its machine-readable definitions, conformance testing, and community-developed projects:
-
-* [Specification](https://github.com/geisa/specification) contains the GEISA specification and supporting documentation
-* [Schemas](https://github.com/geisa/schemas) contains the Protocol Buffer and JSON Schema definitions, profiles, and examples referenced by the specification
+* [Specification](https://github.com/geisa/specification) contains the GEISA specification, supporting documentation, Protocol Buffer and JSON Schema definitions, profiles, examples, and related tooling
 * [Conformance](https://github.com/geisa/conformance) provides tests that developers and platform providers can run against their own hardware and implementations
-* [Community](https://github.com/geisa/community) contains community-maintained applications, platform projects, example implementations, demonstrations, and tools. These projects are not part of the specification or official conformance framework and may have different maintainers and levels of support
->>>>>>> origin/main
+* [Community](https://github.com/geisa/community) contains community-maintained applications, platform projects, example implementations, demonstrations, and tools. These projects are not part of the specification or official conformance framework and may have different maintainers and levels of support.
