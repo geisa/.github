@@ -1,5 +1,10 @@
 The Grid Edge Interoperability and Security Alliance (GEISA) provides a specification which defines a consistent, secure, and interoperable computing environment for embedded devices at the very edge of the electric utility grid, like electric meters and distribution automation devices, for the benefit of utilities, platform vendors, and software vendors. GEISA is a project under the [LF Energy](https://lfenergy.org/).
 
+**GEISA Specification 1.0.0-DRAFT is now available for public review.**
+Read the [HTML specification](https://spec.geisa-energy.org/1.0.0-DRAFT/index.html),
+download the [PDF](https://spec.geisa-energy.org/1.0.0-DRAFT/downloads/geisaspecification.pdf),
+or view the [GitHub release](https://github.com/geisa/specification/releases/tag/v1.0.0-DRAFT).
+
 The [GEISA project page](https://lfenergy.org/projects/geisa/) has general details about the GEISA effort.  The [GEISA Wiki](https://lf-energy.atlassian.net/wiki/spaces/GEISA/overview) has notes from GEISA meetings.
 
 Want to get involved?  Check out the [onboarding page](https://lf-energy.atlassian.net/wiki/spaces/GEISA/pages/66617382/Onboarding+New+Members) for details about our meetings.
